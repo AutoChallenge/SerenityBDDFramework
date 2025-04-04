@@ -16,11 +16,10 @@ src
 │   └── java
 │       └── starter
 │           ├── acceptancetests   # 💥 Main test classes (UI/API/Fail demo)
-│           ├── apitests          # 🌐 API test steps (GET, assertions)
+│           ├── api               # 🌐 API test steps (GET, assertions)
 │           ├── navigation        # 🚪 Page navigation utilities
 │           ├── tasks             # 🎯 Form filling, interactions with UI validations
 │           ├── ui                # 🧱 PageObjects & locators
-│           └── utils             # 🛠 Test support utilities (if needed)
 resources
 └── testdata
     └── formdata.json             # 🧪 Test data file with encrypted password
