@@ -187,7 +187,7 @@ Shows step-by-step with value verification.
 
 ### 🔹 Failure Scenario (Fake validation)
 Serenity automatically:
-- Logs error
+- Logs error with screenshots for failures test
 - Captures browser state
 - Shows exactly where it failed
 
