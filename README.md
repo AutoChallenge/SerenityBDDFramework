@@ -264,7 +264,7 @@ target/site/serenity/index.html
 ```
 You will find detailed test execution steps, input data, and assertion results.
 ```
-Report:
+Serenity BDD Test Execution Dashboard:
 ```
 ![img.png](img.png)
 ```
