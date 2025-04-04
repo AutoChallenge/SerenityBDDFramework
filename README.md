@@ -264,19 +264,19 @@ target/site/serenity/index.html
 ```
 You will find detailed test execution steps, input data, and assertion results.
 ```
-### Serenity BDD Test Execution Dashboard:
+Serenity BDD Test Execution Dashboard:
 ```
 ![img.png](img.png)
 ```
-### API Test Execution Results:
+API Test Execution Results:
 ```
 ![img_2.png](img_2.png)
 ```
-### UI Test Execution Results:
+UI Test Execution Results:
 ```
 ![img_1.png](img_1.png)
 ```
-###UI Test Failure Results:
+UI Test Failure Results:
 ```
 ![img_3.png](img_3.png)
 ---
