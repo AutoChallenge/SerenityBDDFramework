@@ -124,8 +124,9 @@ target/site/serenity/index.html
 
 **Inside `serenity.conf`:**
 ```hocon
-serenity.take.screenshots = FOR_FAILURES
-serenity.take.screenshot.for.tasks = BEFORE_AND_AFTER_EACH_STEP
+take.screenshots = FOR_FAILURES
+take.screenshot.for.tasks = BEFORE_AND_AFTER_EACH_STEP
+take.screenshot.for.interactions = FOR_FAILURES
 ```
 
 **Manually trigger a screenshot:**
