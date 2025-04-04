@@ -10,8 +10,8 @@ This project is a fully functional UI and API test automation framework using **
 src
 ├── main
 │   └── java
-│       └── starter
-│           └── utils              # 🛠 JSON Reader, Encryption/Decryption, Date Utilities
+│       └── common                # 🛠 JSON Reader, Encryption/Decryption, Date Utilities 
+│                         
 ├── test
 │   └── java
 │       └── starter
