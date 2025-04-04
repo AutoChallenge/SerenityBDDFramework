@@ -219,6 +219,7 @@ The UI form (as shown in the image) is fully automated. The following components
 - ✅ Date picker
 - ✅ Range slider
 - ✅ Submit button
+- ✅ Validated that the success message is correctly shown as "Submit"
 
 📄 Validations are performed after entering each value, and Serenity step-level reporting captures every action performed during the test.
 
@@ -226,7 +227,7 @@ The UI form (as shown in the image) is fully automated. The following components
 
 ## 📡 API Test Coverage
 
-We validate the RuneScape public API:
+Validate the RuneScape public API:
 
 **Request:**
 ```http
